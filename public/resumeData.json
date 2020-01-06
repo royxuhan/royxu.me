@@ -1,0 +1,156 @@
+{
+    "main": {
+        "name": "Roy Xu",
+        "occupation": "Software Engineer",
+        "description": "I am a student at carnegie mellon university",
+        "image": "profilepic.jpg",
+        "contactmessage": "Contact me",
+        "email": "royxuhan@gmail.com",
+        "phone": "215-796-5260",
+        "address": {
+            "street": "4500 Centre Ave",
+            "city": "Pittsburgh",
+            "state": "PA",
+            "zip": "15213"
+        },
+        "website": "https://royxu.me/",
+        "resumedownload": "https://royxu.me/",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/royxu1029",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/royxu1029/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/royhxu",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/royxuhan",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Skills section",
+        "education": [{
+                "school": "Carnegie Mellon University",
+                "degree": "B.S. Information Systems",
+                "graduated": "May 2021",
+                "description": "GPA: 3.73/4.0"
+            }
+        ],
+        "work": [{
+                "company": "GoDaddy",
+                "title": "Software Engineering Intern",
+                "years": "May 2019 - August 2019",
+                "description": "Redesigned shipping configuration flow for GoDaddy’s Online Store, improving product level shipping selections for merchants – React, Ruby on Rails, MySQL."
+            }
+        ],
+        "skills": [{
+                "name": "ReactJS",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "90%"
+            },
+            {
+                "name": "HTML5&CSS",
+                "level": "90%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "70%"
+            },
+            {
+                "name": "Ruby on Rails",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "TrashLess",
+                "category": "Concept design for Trashless.",
+                "image": "trashless.png",
+                "url": "https://www.figma.com/file/YHHx9O98lVDwxdpX4uNbQj/trashtag?node-id=498%3A108",
+                "date": "Fall 2019"
+            },
+            {
+                "title": "Atlantis Hub",
+                "category": "Concept design for a Atlantis Hub's data-driven display based on travel data pertaining to flights, trains, and ferries.",
+                "image": "atlantishub.png",
+                "url": "assets/atlantishub.mp4",
+                "date": "Fall 2019"
+            },
+            {
+                "title": "Relax, Bro",
+                "category": "A web-app that reminds you to relax by sending you a text message when the detected speech sentiment is bad.",
+                "image": "relaxbro.png",
+                "url": "https://devpost.com/software/relax-bro",
+                "date": "Fall 2019"
+            },
+            {
+                "title": "Cartpal",
+                "category": "An iOS app that digitizes the brick-and-mortar shopping experience.",
+                "image": "cartpal.png",
+                "url": "https://tinyurl.com/cartpalapp",
+                "date": "Spring 2019"
+            },
+            {
+                "title": "Vezzy",
+                "category": "A marketplace app for college students to buy/sell/trade used goods.",
+                "image": "vezzy.png",
+                "url": "https://apps.apple.com/us/app/vezzy/id1416931390",
+                "date": "Summer 2018"
+            },
+            {
+                "title": "PyBookLib",
+                "category": "A smart book recommendation web app using sklearn, NumPy, and Flask.",
+                "image": "pybooklib.jpg",
+                "url": "https://github.com/royxuhan/PyBookLib",
+                "date": "Fall 2018"
+            },
+            {
+                "title": "Big Skinny",
+                "category": "Website redesign for Big Skinny, Inc..",
+                "image": "bigskinny.png",
+                "url": "http://royxu.me/Big_Skinny/",
+                "date": "Fall 2018"
+            },
+            {
+                "title": "Stack Jump",
+                "category": "An arcade-like stacking game written in Python with Pygame.",
+                "image": "stackjump.png",
+                "url": "https://youtu.be/uwaMxxZF6DQ",
+                "date": "Spring 2018"
+            },
+            {
+                "title": "PySnap",
+                "category": "A light-weight image processing program with built-in filters using openCV, Pillow, NumPy, and tkinter.",
+                "image": "pysnap.png",
+                "url": "https://github.com/royxuhan/PySnap",
+                "date": "Spring 2018"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Quote 1",
+                "user": "Somebody 1"
+            },
+            {
+                "text": "Quote 2",
+                "user": "Somebody 2"
+            }
+        ]
+    }
+}
