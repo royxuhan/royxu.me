@@ -31,19 +31,32 @@ class About extends Component {
             </p>
 
             <p>
-              Previously, I collaborated with some amazing researchers and engineers on Human-AI Interaction at
+              Previously, I collaborated with Professor
 
-              <a href='https://www.hcii.cmu.edu/' target='_blank' rel='noopener noreferrer'>
-                {' '}CMU HCII
+              <a href='https://www.saramoussawi.com/home' target='_blank' rel='noopener noreferrer'>
+                {' '}Sara Moussawi{' '}
               </a>
 
-              . I also worked as a TA for
+              on researching users' behavior in crowdsourcing marketplaces and collaborative platforms.
+
+              I also worked as a TA for
 
               <a href='http://www.kosbie.net/cmu/fall-18/15-110/staff.html' target='_blank' rel='noopener noreferrer'>
                 {' '}15-110
               </a>
 
-              , under Professor David Kosbie and Professor Mark Stehlik.
+              , under Professor
+
+              <a href='http://www.kosbie.net/cmu/' target='_blank' rel='noopener noreferrer'>
+                {' '}David Kosbie{' '}
+              </a>
+
+              and Professor
+
+              <a href='http://www.cs.cmu.edu/~mjs/' target='_blank' rel='noopener noreferrer'>
+                {' '}Mark Stehlik
+              </a>
+              .
 
             </p>
 

@@ -1,4 +1,4 @@
-// royxu.me
+// Roy Xu 2020
 
 import React, { Component } from 'react'
 import ReactGA from 'react-ga'
@@ -7,23 +7,21 @@ import './App.css'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
 import About from './Components/About'
-// import Resume from './Components/Resume'
-// import Contact from './Components/Contact'
-// import Testimonials from './Components/Testimonials'
 import Portfolio from './Components/Portfolio'
+import Artwork from './Components/Artwork'
 
 class App extends Component {
   constructor (props) {
     super(props)
     this.state = {
-      foo: 'bar',
       resumeData: {}
     }
 
-    ReactGA.initialize('UA-85418667-2')
-    ReactGA.pageview(window.location.pathname)
+    ReactGA.initialize('UA-85418667-3')
+    ReactGA.pageview(window.location.pathname + window.location.search)
   }
 
+  // fetch personal data and populate input hash
   getResumeData () {
     $.ajax({
       url: '/resumeData.json',
@@ -38,16 +36,19 @@ class App extends Component {
     })
   }
 
+  // fetch resume data right after the app is initialized
   componentDidMount () {
     this.getResumeData()
   }
 
+  // render everything
   render () {
     return (
       <div className='App' >
         <Header data={this.state.resumeData.main} />
         <About data={this.state.resumeData.main} />
         <Portfolio data={this.state.resumeData.portfolio} />
+        <Artwork data={this.state.resumeData.artwok} />
         <Footer data={this.state.resumeData.main} />
       </div>
     )

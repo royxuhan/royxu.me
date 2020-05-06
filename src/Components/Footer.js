@@ -17,7 +17,7 @@ class Footer extends Component {
             </ul>
 
             <ul className='copyright'>
-              <li>&copy; 2019 Roy Xu. All rights reserved.</li>
+              <li>&copy; 2020 Roy Xu. All rights reserved.</li>
               <li>Site made with <a title='Styleshout' href='https://reactjs.org/'>React.js</a></li>
             </ul>
 
