@@ -14,7 +14,7 @@ class About extends Component {
           </div>
           <div className='nine columns main-col'>
 
-            <h2> Hi, I'm Roy! </h2>
+            <h2> Hi 👋 I'm Roy! </h2>
 
             <p>
               I'm a recent CMU grad studying Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm working as a Software Engineer with GoDaddy’s eCommerce team in Santa Clara, CA.
@@ -65,7 +65,7 @@ class About extends Component {
                 {' '}Spotify{' '}
               </a>
 
-              on my bed at 4am.
+              on my bed at 2am.
 
               I also love art so check out my
 
@@ -73,30 +73,13 @@ class About extends Component {
                 {' '}portfolio
               </a>.
 
-              As long as you can handle my sleep schedule, feel free to
+              Feel free to
 
               <a href='mailto:royxuhan@gmail.com' target='_blank' rel='noopener noreferrer'>
                 {' '}get in touch{' '}
               </a>
 
               - I'm always happy to chat :).
-            </p>
-
-            <p>
-              You can find my
-
-              <a href='assets/Roy Xu Resume.pdf' target='_blank' rel='noopener noreferrer'>
-                {' '}resume{' '}
-              </a>
-
-              here.
-
-              And check out my
-
-              <a href='https://www.royxuhan.com/' target='_blank' rel='noopener noreferrer'>
-                {' '}art
-              </a>!
-
             </p>
 
           </div>
