@@ -17,17 +17,11 @@ class About extends Component {
             <h2> Hi, I'm Roy! </h2>
 
             <p>
-              I'm a CMU undergrad studying Information Systems and Human-Computer Interaction, with a minor in Computer Science.
+              I'm a recent CMU grad studying Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm working as a Software Engineer with GoDaddy’s eCommerce team in Santa Clara, CA.
             </p>
 
             <p>
-              I have experience working with full-stack web and mobile development. I'm also interested in NLP research and UI/UX Design. This past summer, I worked as a Software Engineering Intern with
-
-              <a href='https://medium.com/@royxuhan/my-summer-2019-8d0ac03db859' target='_blank' rel='noopener noreferrer'>
-                {' '}GoDaddy
-              </a>
-
-              ’s Presence & Commerce team in Sunnyvale, CA!
+              I have prior internship experiences with full-stack web and mobile development in Ruby on Rails, React, and Swift UI. I'm also interested in UI/UX Design. 
             </p>
 
             <p>
@@ -37,7 +31,7 @@ class About extends Component {
                 {' '}Sara Moussawi{' '}
               </a>
 
-              on researching users' behavior in crowdsourcing marketplaces and collaborative platforms.
+              from CMU on researching users' behavior in crowdsourcing marketplaces and collaborative platforms.
 
               I also worked as a TA for
 
@@ -45,7 +39,7 @@ class About extends Component {
                 {' '}15-110
               </a>
 
-              , under Professor
+              , Principles of Computing, under Professor
 
               <a href='http://www.kosbie.net/cmu/' target='_blank' rel='noopener noreferrer'>
                 {' '}David Kosbie{' '}
@@ -61,14 +55,7 @@ class About extends Component {
             </p>
 
             <p>
-
-              Last year, I worked on
-
-              <a href='https://apps.apple.com/us/app/vezzy/id1416931390' target='_blank' rel='noopener noreferrer'>
-                {' '}Vezzy
-              </a>
-
-              , a marketplace app that enables college students to buy/sell/trade used goods at ease.
+              Bringing ideas to life excites me - It is my goal to build compelling and meaningful products at scale. Currently, I'm working on Unicart, an iOS app that digitizes the brick-and-mortar shopping experience for college students.
             </p>
 
             <p>
