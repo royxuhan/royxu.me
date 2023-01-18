@@ -14,24 +14,24 @@ class About extends Component {
           </div>
           <div className='nine columns main-col'>
 
-            <h2> Hi 👋 I'm Roy! </h2>
+            <h2> Hi, I'm Roy 👋 </h2>
 
             <p>
-              I'm a recent CMU grad studying Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm working as a Software Engineer with GoDaddy’s eCommerce team in Santa Clara, CA.
+              I graduated from Carnegie Mellon University in 2021, majoring in Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm a Software Engineer on GoDaddy’s eCommerce team in the San Francisco Bay area.
             </p>
 
             <p>
-              I have prior internship experiences with full-stack web and mobile development in Ruby on Rails, React, and Swift UI. I'm also interested in UI/UX Design. 
+              I have experience in full-stack web and mobile development, mostly React, Django, Ruby on Rails, and SwiftUI. I've also worked extensively with AWS Lambda and API Gateway in Node.js and TypeScript. 
             </p>
 
             <p>
-              Previously, I collaborated with Professor
+              In college, I collaborated with Professor
 
               <a href='https://www.saramoussawi.com/home' target='_blank' rel='noopener noreferrer'>
                 {' '}Sara Moussawi{' '}
               </a>
 
-              from CMU on researching users' behavior in crowdsourcing marketplaces and collaborative platforms.
+              on researching users' behavior in crowdsourcing marketplaces and collaborative platforms.
 
               I also worked as a TA for
 
@@ -55,22 +55,16 @@ class About extends Component {
             </p>
 
             <p>
-              Bringing ideas to life excites me - It is my goal to build compelling and meaningful products at scale. Currently, I'm working on Unicart, an iOS app that digitizes the brick-and-mortar shopping experience for college students.
+              Bringing ideas to life excites me - it is my goal to build compelling and meaningful products at scale. In my free time, I'm working on Unibuy, an iOS app that digitizes the brick-and-mortar shopping experience for college students.
             </p>
 
             <p>
-              When I'm not busy procrastinating, catch me hacking on personal projects, working out in the gym, or making fire playlists on
+              When I'm not working, I love playing basketball and watching the lastest sci-fi movies and shows.
 
-              <a href='https://open.spotify.com/playlist/7GPyJufoLiYjZ4CdMynkdI?si=8MSgxt46SQyvRcc__KENBQ' target='_blank' rel='noopener noreferrer'>
-                {' '}Spotify{' '}
-              </a>
-
-              on my bed at 2am.
-
-              I also love art so check out my
+              I also love to draw things so check out my
 
               <a href='https://www.royxuhan.com/' target='_blank' rel='noopener noreferrer'>
-                {' '}portfolio
+                {' '}artwork
               </a>.
 
               Feel free to
