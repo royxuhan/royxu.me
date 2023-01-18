@@ -73,7 +73,7 @@ class About extends Component {
                 {' '}get in touch{' '}
               </a>
 
-              - I'm always happy to chat :).
+              - I'm always happy to chat :)
             </p>
 
           </div>
