@@ -17,11 +17,6 @@
       "resumedownload": "https://royxu.me/",
       "social": [
         {
-          "name": "facebook",
-          "url": "https://www.facebook.com/royxu1029",
-          "className": "fa fa-facebook"
-        },
-        {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/royxu1029/",
           "className": "fa fa-linkedin"
@@ -35,6 +30,11 @@
           "name": "github",
           "url": "https://github.com/royxuhan",
           "className": "fa fa-github"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/royxu1029",
+          "className": "fa fa-facebook"
         }
       ]
     },
