@@ -17,11 +17,11 @@ class About extends Component {
             <h2> Hi, I'm Roy 👋 </h2>
 
             <p>
-              I graduated from Carnegie Mellon University in 2021, majoring in Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm a Software Engineer on GoDaddy’s eCommerce team in the San Francisco Bay area.
+              I graduated from Carnegie Mellon University in 2021, majoring in Information Systems and Human-Computer Interaction, with a minor in Computer Science. Currently, I'm a Software Engineer at GoDaddy in the San Francisco Bay area.
             </p>
 
             <p>
-              I have experience in full-stack web and mobile development, mostly React, Django, Ruby on Rails, and SwiftUI. I've also worked extensively with AWS Lambda and API Gateway in Node.js and TypeScript. 
+              I have experience in full-stack web and mobile development. I have worked with React, Node, Express, Ruby on Rails, and SwiftUI. I've also worked extensively with AWS Serverless. 
             </p>
 
             <p>
@@ -55,17 +55,17 @@ class About extends Component {
             </p>
 
             <p>
-              Bringing ideas to life excites me - it is my goal to build compelling and meaningful products at scale. In my free time, I'm working on Unibuy, an iOS app that digitizes the brick-and-mortar shopping experience for college students.
+              Bringing ideas to life excites me - it is my goal to build compelling and meaningful products at scale. During my free time, I worked on an iOS app that digitizes the brick-and-mortar shopping experience for college students.
             </p>
 
             <p>
               When I'm not working, I love playing basketball and watching the lastest sci-fi movies and shows.
 
-              I also love to draw things so check out my
+              I also love to draw things. Check out my
 
               <a href='https://www.royxuhan.com/' target='_blank' rel='noopener noreferrer'>
                 {' '}artwork
-              </a>.
+              </a>!
 
               Feel free to
 
