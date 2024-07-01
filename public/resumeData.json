@@ -1,135 +1,134 @@
 {
-    "main": {
-      "name": "Roy Xu",
-      "occupation": "Software Engineer",
-      "description": "I am a student at carnegie mellon university",
-      "image": "profilepic.jpg",
-      "contactmessage": "Contact me",
-      "email": "royxuhan@gmail.com",
-      "phone": "215-796-5260",
-      "address": {
-        "street": "4500 Centre Ave",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "zip": "15213"
-      },
-      "website": "https://royxu.me/",
-      "resumedownload": "https://royxu.me/",
-      "social": [
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/royxu1029/",
-          "className": "fa fa-linkedin"
-        },
-        {
-          "name": "instagram",
-          "url": "http://instagram.com/royhxu",
-          "className": "fa fa-instagram"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/royxuhan",
-          "className": "fa fa-github"
-        },
-        {
-          "name": "facebook",
-          "url": "https://www.facebook.com/royxu1029",
-          "className": "fa fa-facebook"
-        }
-      ]
-    },
-  
-    "portfolio": {
-      "projects": [
-        {
-          "title": "TwoFold",
-          "category": "Investor Pitch for TwoFold, dating app for meaningful connections.",
-          "image": "twofold.png",
-          "url": "https://docs.google.com/presentation/d/121HGt7ox8r-nwRIRqe8YWOZfS2gqUiPwZEDC7po3Qno/edit?usp=sharing",
-          "date": "Spring 2020"
-        },
-        {
-          "title": "NanaButler",
-          "category": "NanaWall app with a smart chatbot and post-sale maintainance flow.",
-          "image": "nanabutler.png",
-          "url": "https://www.figma.com/proto/fQiGIjAyXQRL2Pw5ysHOo5/Nanawall-ixd?node-id=409%3A1936&scaling=scale-down",
-          "date": "Spring 2020"
-        },
-        {
-          "title": "TrashLess",
-          "category": "Concept design for Trashless, bring communities together and tag your trash!",
-          "image": "trashless.png",
-          "url": "https://www.figma.com/file/YHHx9O98lVDwxdpX4uNbQj/trashtag?node-id=498%3A108",
-          "date": "Fall 2019"
-        },
-        {
-          "title": "Atlantis Hub",
-          "category": "Concept design for a Atlantis Hub's data-driven display based on travel data pertaining to flights, trains, and ferries.",
-          "image": "atlantishub.png",
-          "url": "assets/atlantishub.mp4",
-          "date": "Fall 2019"
-        },
-        {
-          "title": "Relax, Bro",
-          "category": "A web-app that reminds you to relax, bro.",
-          "image": "relaxbro.png",
-          "url": "https://devpost.com/software/relax-bro",
-          "date": "Fall 2019"
-        },
-        {
-          "title": "Cartpal",
-          "category": "An iOS app that digitizes the brick-and-mortar shopping experience.",
-          "image": "cartpal.png",
-          "url": "https://tinyurl.com/cartpalapp",
-          "date": "Spring 2019"
-        },
-        {
-          "title": "Vezzy",
-          "category": "A marketplace app for college students to buy/sell/trade used goods.",
-          "image": "vezzy.png",
-          "url": "https://apps.apple.com/us/app/vezzy/id1416931390",
-          "date": "Summer 2018"
-        },
-        {
-          "title": "PyBookLib",
-          "category": "A smart book recommendation web app using sklearn, NumPy, and Flask.",
-          "image": "pybooklib.jpg",
-          "url": "https://github.com/royxuhan/PyBookLib",
-          "date": "Fall 2018"
-        },
-        {
-          "title": "Big Skinny",
-          "category": "Website for Big Skinny, Inc.",
-          "image": "bigskinny.png",
-          "url": "https://royxuhan.github.io/Big_Skinny/",
-          "date": "Fall 2018"
-        },
-        {
-          "title": "Stack Jump",
-          "category": "An arcade-like stack jumping game written in Python with Pygame.",
-          "image": "stackjump.png",
-          "url": "https://youtu.be/uwaMxxZF6DQ",
-          "date": "Spring 2018"
-        },
-        {
-          "title": "PySnap",
-          "category": "A light-weight image processing program with built-in filters using openCV, Pillow, NumPy, and tkinter.",
-          "image": "pysnap.png",
-          "url": "https://github.com/royxuhan/PySnap",
-          "date": "Spring 2018"
-        }
-      ]
-    },
-  
-    "artwork": {
-      "pieces": [
-        {
-          "image": "1.jpg"
-        },
-        {
-          "image": "2.jpg"
-        }
-      ]
-    }
-  }
-  
+	"main": {
+		"name": "Roy Xu",
+		"occupation": "Software Engineer",
+		"description": "I am a student at carnegie mellon university",
+		"image": "profilepic.jpg",
+		"contactmessage": "Contact me",
+		"email": "royxuhan@gmail.com",
+		"phone": "215-796-5260",
+		"address": {
+			"street": "4500 Centre Ave",
+			"city": "Pittsburgh",
+			"state": "PA",
+			"zip": "15213"
+		},
+		"website": "https://royxu.me/",
+		"resumedownload": "https://royxu.me/",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/royxu1029/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "http://instagram.com/royhxu",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/royxuhan",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/royxu1029",
+				"className": "fa fa-facebook"
+			}
+		]
+	},
+
+	"portfolio": {
+		"projects": [
+			{
+				"title": "TwoFold",
+				"category": "Investor Pitch for TwoFold, dating app for meaningful connections.",
+				"image": "twofold.png",
+				"url": "https://docs.google.com/presentation/d/121HGt7ox8r-nwRIRqe8YWOZfS2gqUiPwZEDC7po3Qno/edit?usp=sharing",
+				"date": "Spring 2020"
+			},
+			{
+				"title": "NanaButler",
+				"category": "NanaWall app with a smart chatbot and post-sale maintainance flow.",
+				"image": "nanabutler.png",
+				"url": "https://www.figma.com/proto/fQiGIjAyXQRL2Pw5ysHOo5/Nanawall-ixd?node-id=409%3A1936&scaling=scale-down",
+				"date": "Spring 2020"
+			},
+			{
+				"title": "TrashLess",
+				"category": "Concept design for Trashless, bring communities together and tag your trash!",
+				"image": "trashless.png",
+				"url": "https://www.figma.com/file/YHHx9O98lVDwxdpX4uNbQj/trashtag?node-id=498%3A108",
+				"date": "Fall 2019"
+			},
+			{
+				"title": "Atlantis Hub",
+				"category": "Concept design for a Atlantis Hub's data-driven display based on travel data pertaining to flights, trains, and ferries.",
+				"image": "atlantishub.png",
+				"url": "assets/atlantishub.mp4",
+				"date": "Fall 2019"
+			},
+			{
+				"title": "Relax, Bro",
+				"category": "A web-app that reminds you to relax, bro.",
+				"image": "relaxbro.png",
+				"url": "https://devpost.com/software/relax-bro",
+				"date": "Fall 2019"
+			},
+			{
+				"title": "Cartpal",
+				"category": "An iOS app that digitizes the brick-and-mortar shopping experience.",
+				"image": "cartpal.png",
+				"url": "https://tinyurl.com/cartpalapp",
+				"date": "Spring 2019"
+			},
+			{
+				"title": "Vezzy",
+				"category": "A marketplace app for college students to buy/sell/trade used goods.",
+				"image": "vezzy.png",
+				"url": "https://apps.apple.com/us/app/vezzy/id1416931390",
+				"date": "Summer 2018"
+			},
+			{
+				"title": "PyBookLib",
+				"category": "A smart book recommendation web app using sklearn, NumPy, and Flask.",
+				"image": "pybooklib.jpg",
+				"url": "https://github.com/royxuhan/PyBookLib",
+				"date": "Fall 2018"
+			},
+			{
+				"title": "Big Skinny",
+				"category": "Website for Big Skinny, Inc.",
+				"image": "bigskinny.png",
+				"url": "https://royxuhan.github.io/Big_Skinny/",
+				"date": "Fall 2018"
+			},
+			{
+				"title": "Stack Jump",
+				"category": "An arcade-like stack jumping game written in Python with Pygame.",
+				"image": "stackjump.png",
+				"url": "https://youtu.be/uwaMxxZF6DQ",
+				"date": "Spring 2018"
+			},
+			{
+				"title": "PySnap",
+				"category": "A light-weight image processing program with built-in filters using openCV, Pillow, NumPy, and tkinter.",
+				"image": "pysnap.png",
+				"url": "https://github.com/royxuhan/PySnap",
+				"date": "Spring 2018"
+			}
+		]
+	},
+
+	"artwork": {
+		"pieces": [
+			{
+				"image": "1.jpg"
+			},
+			{
+				"image": "2.jpg"
+			}
+		]
+	}
+}
